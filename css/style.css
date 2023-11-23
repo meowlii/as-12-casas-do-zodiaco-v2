@@ -1,0 +1,10 @@
+*{
+
+    background-color: black;
+    font-family: 'Trebuchet MS';
+    color: white;
+    margin: 10px;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
